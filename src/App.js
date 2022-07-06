@@ -101,7 +101,7 @@ export default function App() {
       </div>
       <div className="d-flex flex-column align-items-start">
         <h1 className="font-weight-normal mb-3">{t('welcome_message')}</h1>
-        <p>{t('days_since_release', { number_of_days })}</p>
+        <p>{t('footer', { number_of_days })}</p>
       </div>
     </div>
   )

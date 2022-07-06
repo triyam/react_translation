@@ -1,0 +1,7 @@
+{
+    "app_title": "題名",
+    "language": "言語",
+    "welcome_message": "ようこそ",
+    "footer": "こんにちは元気ですか {{number_of_days}} 日々"
+  }
+  
